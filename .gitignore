@@ -15,3 +15,9 @@ buildNumber.properties
 .project
 # JDT-specific (Eclipse Java Development Tools)
 .classpath
+
+SysSyncRunner/.env
+elasticsearch-data
+SysSyncRunner/log.txt
+.idea
+
